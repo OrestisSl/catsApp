@@ -49,6 +49,10 @@ The Cat Facts App is a simple and delightful web application that fetches and di
 
 2. Open your browser and go to `http://localhost:5173`.
 
+## Demo
+
+Check out the live demo [here](https://catsreactapp.netlify.app/).
+
 ## Credits
 
 - **MeowFacts API**: Provides random cat facts. [Website](https://meowfacts.herokuapp.com)
