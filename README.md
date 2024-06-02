@@ -57,5 +57,3 @@ The Cat Facts App is a simple and delightful web application that fetches and di
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## <!> Project not viewable at this moment due to an error <!>
