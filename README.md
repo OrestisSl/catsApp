@@ -30,7 +30,7 @@ The Cat Facts App is a simple and delightful web application that fetches and di
 2. Navigate to the project directory:
 
     ```bash
-    cd cat-facts-app
+    cd catsApp
     ```
 
 3. Install the dependencies:
@@ -48,6 +48,10 @@ The Cat Facts App is a simple and delightful web application that fetches and di
     ```
 
 2. Open your browser and go to `http://localhost:5173`.
+
+## Demo
+
+Check out the live demo [here](https://catsreactapp.netlify.app/).
 
 ## Credits
 
